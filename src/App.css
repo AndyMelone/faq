@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap");
+
+body {
+  background-color: #f9f0ff;
+  padding: 0;
+  margin: O;
+  box-sizing: border-box;
+  color: #2f1533;
+  font-family: "Work Sans", sans-serif;
+  background-image: url(/public/images/background-pattern-desktop.svg);
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
+}
