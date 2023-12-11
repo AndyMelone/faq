@@ -7,7 +7,7 @@ export default function Quizresponse({
   className,
   ...props
 }) {
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
   const handleClick = () => setShow((c) => !c);
   return (
     <div className={className}>
